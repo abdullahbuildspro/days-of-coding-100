@@ -152,7 +152,7 @@ I don't want to learn programming concepts only in theory. I want to **build, ex
 
 ```bash
 # Clone the repository
-git clone https://github.com/abdullahbuildspro/100-days-of-coding.git
+git clone https://github.com/abdullahbuildspro/days-of-coding-100.git
 
 # Navigate to any day's folder
 cd 100-days-of-coding/Day-XXX
