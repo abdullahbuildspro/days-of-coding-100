@@ -9,7 +9,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-22%2F100-2ea44f?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-23%2F100-2ea44f?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-**22 / 100 Days Completed**
+**23 / 100 Days Completed**
 
-![Progress Bar](https://progress-bar.xyz/22/?width=500&color=babaca&title=Progress)
+![Progress Bar](https://progress-bar.xyz/23/?width=500&color=babaca&title=Progress)
 
-**🔥 Current Streak: 22 Days**
+**🔥 Current Streak: 23 Days**
 
 </div>
 
@@ -59,7 +59,8 @@ Every day has its own folder containing the projects and exercises completed dur
 | [020](./Day-020) | Snake Game — Part 1 | ✅ |
 | [021](./Day-021) | Snake Game — Part 2 | ✅ |
 | [022](./Day-022) | Build Pong | ✅ |
-| [023](./Day-023) | Coming soon... | ⬜ |
+| [023](./Day-023) | Turtle Crossing Game | ✅ |
+| [024](./Day-024) | Coming soon... | ⬜ |
 | ... | ... | ⬜ |
 | [100](./Day-100) | 🏆 Final Project | ⬜ |
 
@@ -219,6 +220,12 @@ days-of-coding-100/
 │   ├── paddle.py
 │   └── scoreboard.py
 │
+├── Day-023/
+│   ├── car_manager.py
+│   ├── player.py
+│   ├── scoreboard.py
+│   └── Turtle Crossing Game.py
+│
 ├── .gitignore
 └── README.md
 ```
@@ -243,12 +250,12 @@ cd days-of-coding-100
 
 For example:
 ```bash
-cd Day-022
+cd Day-023
 ```
 
 **4. Run a Python project**
 ```bash
-python "Build Pong.py"
+python "Turtle Crossing Game.py"
 ```
 
 > Some projects contain multiple Python files that work together. Make sure you run the main file for that project.
@@ -272,7 +279,7 @@ python "Build Pong.py"
 
 <div align="center">
 
-### 22 Days 🔥
+### 23 Days 🔥
 
 *One day at a time.*
 *One project at a time.*
@@ -301,11 +308,11 @@ The repository will continue to evolve as I learn new concepts and take on more 
 
 ## 🌱 What's Next?
 
-The journey doesn't end at Day 022.
+The journey doesn't end at Day 023.
 
 There are still:
 
-**78 Days Remaining**
+**77 Days Remaining**
 
 More projects.
 More challenges.
