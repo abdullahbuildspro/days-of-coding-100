@@ -9,7 +9,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-23%2F100-2ea44f?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-24%2F100-2ea44f?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-**23 / 100 Days Completed**
+**24 / 100 Days Completed**
 
-![Progress Bar](https://progress-bar.xyz/23/?width=500&color=babaca&title=Progress)
+![Progress Bar](https://progress-bar.xyz/24/?width=500&color=babaca&title=Progress)
 
-**🔥 Current Streak: 23 Days**
+**🔥 Current Streak: 24 Days**
 
 </div>
 
@@ -60,7 +60,8 @@ Every day has its own folder containing the projects and exercises completed dur
 | [021](./Day-021) | Snake Game — Part 2 | ✅ |
 | [022](./Day-022) | Build Pong | ✅ |
 | [023](./Day-023) | Turtle Crossing Game | ✅ |
-| [024](./Day-024) | Coming soon... | ⬜ |
+| [024](./Day-024) | Mail Merge Project · Snake Game | ✅ |
+| [025](./Day-025) | Coming soon... | ⬜ |
 | ... | ... | ⬜ |
 | [100](./Day-100) | 🏆 Final Project | ⬜ |
 
@@ -226,6 +227,25 @@ days-of-coding-100/
 │   ├── scoreboard.py
 │   └── Turtle Crossing Game.py
 │
+├── Day-024/
+│   ├── Mail Merge Project Start/
+│   │   ├── Input/
+│   │   │   ├── Letters/
+│   │   │   │   └── starting_letter.txt
+│   │   │   └── Names/
+│   │   │       └── invited_names.txt
+│   │   ├── Output/
+│   │   │   └── ReadyToSend/
+│   │   │       └── example.txt
+│   │   └── main.py
+│   │
+│   └── Snake Game/
+│       ├── data.txt
+│       ├── food.py
+│       ├── scoreboard.py
+│       ├── Snake Game.py
+│       └── snake.py
+│
 ├── .gitignore
 └── README.md
 ```
@@ -250,12 +270,12 @@ cd days-of-coding-100
 
 For example:
 ```bash
-cd Day-023
+cd "Day-024/Mail Merge Project Start"
 ```
 
 **4. Run a Python project**
 ```bash
-python "Turtle Crossing Game.py"
+python main.py
 ```
 
 > Some projects contain multiple Python files that work together. Make sure you run the main file for that project.
@@ -279,7 +299,7 @@ python "Turtle Crossing Game.py"
 
 <div align="center">
 
-### 23 Days 🔥
+### 24 Days 🔥
 
 *One day at a time.*
 *One project at a time.*
@@ -308,11 +328,11 @@ The repository will continue to evolve as I learn new concepts and take on more 
 
 ## 🌱 What's Next?
 
-The journey doesn't end at Day 023.
+The journey doesn't end at Day 024.
 
 There are still:
 
-**77 Days Remaining**
+**76 Days Remaining**
 
 More projects.
 More challenges.
