@@ -9,7 +9,7 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-24%2F100-2ea44f?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-25%2F100-2ea44f?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -21,11 +21,11 @@
 
 <div align="center">
 
-**24 / 100 Days Completed**
+**25 / 100 Days Completed**
 
-![Progress Bar](https://progress-bar.xyz/24/?width=500&color=babaca&title=Progress)
+![Progress Bar](https://progress-bar.xyz/25/?width=500&color=babaca&title=Progress)
 
-**🔥 Current Streak: 24 Days**
+**🔥 Current Streak: 25 Days**
 
 </div>
 
@@ -61,7 +61,8 @@ Every day has its own folder containing the projects and exercises completed dur
 | [022](./Day-022) | Build Pong | ✅ |
 | [023](./Day-023) | Turtle Crossing Game | ✅ |
 | [024](./Day-024) | Mail Merge Project · Snake Game | ✅ |
-| [025](./Day-025) | Coming soon... | ⬜ |
+| [025](./Day-025) | U.S. States Game | ✅ |
+| [026](./Day-026) | Coming soon... | ⬜ |
 | ... | ... | ⬜ |
 | [100](./Day-100) | 🏆 Final Project | ⬜ |
 
@@ -151,7 +152,7 @@ The goal is to become better than I was on Day 001.
 |---|:---:|:---:|
 | 🟢 Challenge Started | Day 001 | ✅ |
 | 🔥 First 10 Days | Day 010 | ✅ |
-| 💪 25% Complete | Day 025 | ⬜ |
+| 💪 25% Complete | Day 025 | ✅ |
 | 🚀 Halfway There | Day 050 | ⬜ |
 | 🏅 75% Complete | Day 075 | ⬜ |
 | 🏆 Final Day | Day 100 | ⬜ |
@@ -246,6 +247,11 @@ days-of-coding-100/
 │       ├── Snake Game.py
 │       └── snake.py
 │
+├── Day-025/
+│   ├── 50_states.csv
+│   ├── blank_states_img.gif
+│   └── main.py
+│
 ├── .gitignore
 └── README.md
 ```
@@ -270,7 +276,7 @@ cd days-of-coding-100
 
 For example:
 ```bash
-cd "Day-024/Mail Merge Project Start"
+cd Day-025
 ```
 
 **4. Run a Python project**
@@ -299,7 +305,7 @@ python main.py
 
 <div align="center">
 
-### 24 Days 🔥
+### 25 Days 🔥
 
 *One day at a time.*
 *One project at a time.*
@@ -328,11 +334,11 @@ The repository will continue to evolve as I learn new concepts and take on more 
 
 ## 🌱 What's Next?
 
-The journey doesn't end at Day 024.
+The journey doesn't end at Day 025.
 
 There are still:
 
-**76 Days Remaining**
+**75 Days Remaining**
 
 More projects.
 More challenges.
